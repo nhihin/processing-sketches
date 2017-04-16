@@ -7,7 +7,5 @@ This sketch continuously generates new spirographs:
 3. Repeat the previous step 100 times
 4. Set the new angle to 1 + 1 = 2 degrees and repeat the whole process to draw a different spirograph
 
-## Interesting spirographs
-![](121.png)
 
 
