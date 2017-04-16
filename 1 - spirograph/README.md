@@ -1,6 +1,6 @@
 # 1 - Spirograph
 
-![](spirograph.png)
+![](spirographs.png)
 
 This sketch continuously generates new spirographs using the following steps:
 
