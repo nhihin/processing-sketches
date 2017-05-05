@@ -1,3 +1,10 @@
 # Processing Sketches
-To pick up a few object oriented programming concepts while producing cool (one day!) visualisations. :) 
-I'm mainly learning from the [examples on Processing.org](https://processing.org/examples/), [examples from the Learning Processing book](http://learningprocessing.com/examples/) and the [actual Learning Processing book](http://www.sciencedirect.com/science/article/pii/B9780123944436500019), along with [this useful cheatsheet](https://www.cs.bham.ac.uk/~cxp291/ri/processing_cheat_sheet_english.pdf). The sketches by others over at [OpenProcessing](https://www.openprocessing.org/) are also really cool.
+Aiming to pick up a few object oriented programming concepts while producing cool visualisations. :) 
+
+## Resources
+
+- [Examples on Processing.org](https://processing.org/examples/)
+- [Examples from the Learning Processing book](http://learningprocessing.com/examples/)
+- [Learning Processing book](http://www.sciencedirect.com/science/article/pii/B9780123944436500019)
+- [This useful cheatsheet](https://www.cs.bham.ac.uk/~cxp291/ri/processing_cheat_sheet_english.pdf)
+- Heaps of inspiration at [OpenProcessing](https://www.openprocessing.org/).
