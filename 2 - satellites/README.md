@@ -7,8 +7,4 @@ A simple animation of two moons orbiting a planet.
 3. Increment angle by 1, clear the background (to prevent a continuous streak of moon) and repeat step 2. 
 4. Just for fun, using the `random()` function, the colour of the central planet changes colour from blue to teal and back again.
 
-
-
-## Screenshot
-I'll try and upload a gif soon, but for now, here's a static image:
-![](screenshot.png)
+The animated sketch can be viewed at [OpenProcessing](https://www.openprocessing.org/sketch/426050).
