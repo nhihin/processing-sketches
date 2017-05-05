@@ -1,6 +1,8 @@
 # Processing Sketches
 Aiming to pick up a few object oriented programming concepts while producing cool visualisations. :) 
 
+Animated / interactive versions of my sketches can be found at my [OpenProcessing](https://www.openprocessing.org/user/88057) page.
+
 ## Resources
 
 - [Examples on Processing.org](https://processing.org/examples/)
